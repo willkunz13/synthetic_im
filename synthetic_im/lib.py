@@ -2,6 +2,8 @@
 
 __all__ = ['load_yaml']
 
+import yaml
+
 # Cell
 def load_yaml(yfile:str):
     """Returns the data from a yaml file."""
