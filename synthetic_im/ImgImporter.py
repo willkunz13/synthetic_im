@@ -3,6 +3,7 @@
 __all__ = ['ImgImporter']
 
 # Cell
+#skip
 import os
 from google_images_search import GoogleImagesSearch
 
