@@ -1,3 +1,5 @@
 data/
 env.py
 /data
+awscli.ini
+secrets.yaml
