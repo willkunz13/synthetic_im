@@ -1,4 +1,3 @@
-.dvcignore
 .gitattributes
 .gitconfig
 .gitignore
@@ -7,18 +6,9 @@
 MANIFEST.in
 Makefile
 README.md
-data.dvc
 index.ipynb
 settings.ini
 setup.py
-.dvc/.gitignore
-.dvc/config
-.dvc/plots/confusion.json
-.dvc/plots/confusion_normalized.json
-.dvc/plots/default.json
-.dvc/plots/linear.json
-.dvc/plots/scatter.json
-.dvc/plots/smooth.json
 .github/workflows/main.yml
 .ipynb_checkpoints/00_core-checkpoint.ipynb
 docs/.gitignore
@@ -102,7 +92,6 @@ docs/js/toc.js
 docs/licenses/LICENSE
 docs/licenses/LICENSE-BSD-NAVGOCO.txt
 notebooks/.last_checked
-notebooks/core.ipynb
 notebooks/lib.ipynb
 notebooks/.ipynb_checkpoints/core-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/lib-checkpoint.ipynb
@@ -110,6 +99,8 @@ synthetic_im/ImgImporter.py
 synthetic_im/__init__.py
 synthetic_im/_nbdev.py
 synthetic_im/lib.py
+synthetic_im/utils.py
+synthetic_im/vision_transformer.py
 synthetic_im.egg-info/PKG-INFO
 synthetic_im.egg-info/SOURCES.txt
 synthetic_im.egg-info/dependency_links.txt
@@ -119,3 +110,5 @@ synthetic_im.egg-info/top_level.txt
 synthetic_im/__pycache__/__init__.cpython-37.pyc
 synthetic_im/__pycache__/_nbdev.cpython-37.pyc
 synthetic_im/__pycache__/lib.cpython-37.pyc
+synthetic_im/models/__init__.py
+synthetic_im/models/dino.py
