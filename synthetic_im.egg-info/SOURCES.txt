@@ -106,6 +106,7 @@ synthetic_im.egg-info/SOURCES.txt
 synthetic_im.egg-info/dependency_links.txt
 synthetic_im.egg-info/entry_points.txt
 synthetic_im.egg-info/not-zip-safe
+synthetic_im.egg-info/requires.txt
 synthetic_im.egg-info/top_level.txt
 synthetic_im/__pycache__/__init__.cpython-37.pyc
 synthetic_im/__pycache__/_nbdev.cpython-37.pyc
