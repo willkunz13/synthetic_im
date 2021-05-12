@@ -2,12 +2,15 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"ImgImporter": "core.ipynb",
+index = {"DinoDataset": "Dino.ipynb",
+         "predict_images": "Dino.ipynb",
+         "ImgImporter": "ImgImporter.ipynb",
          "load_yaml": "lib.ipynb",
          "get_project_root": "lib.ipynb",
          "set_secrets": "lib.ipynb"}
 
-modules = ["ImgImporter.py",
+modules = ["models/dino.py",
+           "ImgImporter.py",
            "lib.py"]
 
 doc_url = "https://willkunz13.github.io/synthetic_im/"
