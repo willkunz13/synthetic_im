@@ -7,3 +7,6 @@ numpy==1.18.5
 Pillow==8.2.0
 PyYAML==5.4.1
 ipdb
+Flask
+requests
+waitress
