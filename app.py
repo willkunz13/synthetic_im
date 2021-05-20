@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request, send_file
 from synthetic_im.models.dino import * 
 import os
-import pdb
 import zipfile
 import sys
 from synthetic_im.lib import get_project_root
