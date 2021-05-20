@@ -14,12 +14,13 @@ import torchvision
 from torchvision import datasets, models, transforms
 import matplotlib.pyplot as plt
 import time
+import ipdb
 import os
 import sys
 import copy
 from pathlib import Path
-import synthetic_im.vision_transformer as vision_transformer
-from synthetic_im.lib import get_project_root
+from synthetic_im import vision_transformer
+from ..lib import get_project_root
 
 # Cell
 
