@@ -1,3 +1,4 @@
 awscli.ini
 secrets.yaml
+notebooks/
 ec21.pem

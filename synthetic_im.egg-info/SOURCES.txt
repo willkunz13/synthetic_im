@@ -2,6 +2,9 @@ MANIFEST.in
 README.md
 settings.ini
 setup.py
+scripts/__init__.py
+scripts/tests/__init__.py
+scripts/tests/post_test_images.py
 synthetic_im/ImgImporter.py
 synthetic_im/__init__.py
 synthetic_im/_nbdev.py
