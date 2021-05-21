@@ -2,3 +2,4 @@ awscli.ini
 secrets.yaml
 synthetic_im.egg-info/
 notebooks/
+ec21.pem
