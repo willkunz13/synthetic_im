@@ -1,4 +1,6 @@
 awscli.ini
+**/__pycache__/
+*__pychache__
 secrets.yaml
 synthetic_im.egg-info/
 notebooks/

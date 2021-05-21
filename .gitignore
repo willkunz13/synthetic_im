@@ -3,6 +3,6 @@ awscli.ini
 secrets.yaml
 data/
 ec21.pem
-synthetic_im.egg-info/
 **/__pycache__/
 *__pychache__
+synthetic_im.egg-info/
